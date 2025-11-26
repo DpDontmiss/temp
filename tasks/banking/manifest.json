@@ -1,0 +1,9 @@
+{
+    "task_name": "banking_reserve_calculation",
+    "problem_statement": "Using the provided cash flow spreadsheet (cash_flows.ods), calculate the required reserves for each entry. The reserve is calculated as 10% of the 'Amount' column. Write the result in a new column named 'Reserve' in the same sheet. Save the result to 'solutions/solution.ods'.",
+    "required_files": [
+        "cash_flows.ods"
+    ],
+    "expected_output": "solutions/solution.ods",
+    "sheet_name": "Sheet1"
+}
